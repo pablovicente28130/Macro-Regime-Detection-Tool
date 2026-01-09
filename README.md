@@ -3,6 +3,7 @@
 A quantitative tool for detecting macroeconomic regimes using **K-Means Clustering** and **Hidden Markov Models (HMM)**, with tactical asset allocation recommendations.
 
 ## Overview
+[Macro Regime Detection.pdf](https://github.com/user-attachments/files/24523553/Macro.Regime.Detection.pdf)
 
 This project implements a regime detection system that:
 - Identifies macroeconomic regimes (Equities, Fixed Income, Balanced, Cash) using rolling window estimation
